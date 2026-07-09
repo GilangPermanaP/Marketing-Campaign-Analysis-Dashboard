@@ -2,7 +2,7 @@
 Interactive Tableau dashboard analyzing marketing campaign performance to uncover customer insights, income distribution, and data-driven business recommendations.
 # 📊 Marketing Campaign Analysis Dashboard
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ## 📌 Project Overview
 
