@@ -167,4 +167,4 @@ GitHub:
 https://github.com/GilangPermanaP
 
 LinkedIn:
-Linkedin.com/gilangpermanaputra
+Linkedin.com/gilangpermanaputra 
