@@ -164,7 +164,7 @@ Skills:
 - Machine Learning
 
 GitHub:
-https://github.com/USERNAME
+https://github.com/GilangPermanaP
 
 LinkedIn:
-https://linkedin.com/in/USERNAME
+Linkedin.com/gilangpermanaputra
