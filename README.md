@@ -78,7 +78,7 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
